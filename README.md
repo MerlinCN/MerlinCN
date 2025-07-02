@@ -19,7 +19,6 @@
 
 ## 🌟 最受欢迎的项目
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=merlincn&repo=WeiboBot)](https://github.com/MerlinCN/WeiboBot)
-目前还在重构中
 
 ## 📫 如何联系我
 - Email: [merlin@merlinblog.cn](merlin@merlinblog.cn)
